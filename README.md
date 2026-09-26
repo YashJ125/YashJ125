@@ -1,28 +1,29 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Yash%20Joshi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Enthusiast%20%7C%20Java%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Yash%20Joshi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Backend%20Development%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Development+Enthusiast;B.Tech+ECE+Student;DSA+%7C+OOP+%7C+SQL;Building+Projects+and+Learning+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Development+Enthusiast;B.Tech+ECE+Student;DSA+%7C+OOP+%7C+SQL;Building+Java+Projects;Aspiring+Software+Engineer" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech-ECE-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-Developer-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-AI%20Foundations-A855F7?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Development-A855F7?style=for-the-badge&logo=spring&logoColor=white"/>
 
 <br/><br/>
 
 <a href="mailto:jyash4450@gmail.com">
 <img src="https://img.shields.io/badge/Email-jyash4450%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/yash-joshi-46599928b">
 <img src="https://img.shields.io/badge/LinkedIn-Yash%20Joshi-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/YashJ125">
 <img src="https://img.shields.io/badge/GitHub-YashJ125-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -37,19 +38,22 @@
 
 ## About Me
 
-I am a **B.Tech Electronics and Communication Engineering student** with a strong interest in **Software Engineering and Java Development**.
+I am a **B.Tech Electronics and Communication Engineering student** with a strong interest in **Software Engineering and Java Backend Development**.
 
-My current focus is on strengthening my foundations in **Java, Object-Oriented Programming, Data Structures & Algorithms, SQL, and problem solving**, while building practical software projects.
+My primary focus is on building a strong foundation in **Java, Object-Oriented Programming, Data Structures & Algorithms, SQL, and backend development**.
 
-I have completed a **Java Development internship at QSkill**, where I worked with Java-based programming tasks and strengthened my understanding of object-oriented programming and software development workflows.
+I have completed a **Java Development Internship at QSkill**, where I worked on Java-based programming tasks and strengthened my understanding of object-oriented programming, problem solving, and software development workflows.
 
-I enjoy turning programming concepts into practical applications and continuously improving my development skills through hands-on projects.
+I enjoy building practical applications, improving my programming fundamentals, and turning concepts into working software.
+
+My long-term goal is to grow as a **Java Backend Developer and Software Engineer**.
 
 ### Open To
 
 - Java Development
 - Backend Development
 - Software Engineering Opportunities
+- Java/Spring Boot Projects
 - Internships & Entry-Level Roles
 - Collaborative Software Projects
 
@@ -60,7 +64,7 @@ I enjoy turning programming concepts into practical applications and continuousl
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,sql" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### Core Concepts
@@ -70,6 +74,14 @@ I enjoy turning programming concepts into practical applications and continuousl
 <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-4F46E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-A855F7?style=flat-square"/>
 <img src="https://img.shields.io/badge/Exception%20Handling-6366F1?style=flat-square"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Java%20Backend-4F46E5?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square"/>
 </p>
 
 ### Database
@@ -106,10 +118,10 @@ A student management application designed to organize and manage student informa
 
 | Category | Details |
 |---|---|
-| Stack | Programming & Database Concepts |
+| Stack | Java |
 | Functionality | Add, update, view and manage student records |
-| Focus | Data Management |
-| Security | Not specified in resume |
+| Focus | Student Data Management |
+| Security | Not specified |
 | Impact | Simplifies management of student information |
 | Repository | [View Repository](https://github.com/YashJ125) |
 
@@ -117,8 +129,9 @@ A student management application designed to organize and manage student informa
 
 - Developed an application for managing student information.
 - Implemented functionality for adding student records.
-- Added options for updating and viewing student information.
-- Focused on structured management of student records.
+- Added options for updating student information.
+- Added functionality for viewing and managing student records.
+- Focused on structured data management.
 
 </details>
 
@@ -133,10 +146,10 @@ An application designed to record and manage personal expenses.
 
 | Category | Details |
 |---|---|
-| Stack | Programming & Database Concepts |
+| Stack | Java |
 | Functionality | Expense recording and management |
-| Focus | Personal Finance Tracking |
-| Security | Not specified in resume |
+| Focus | Expense Tracking |
+| Security | Not specified |
 | Impact | Helps users maintain and review spending records |
 | Repository | [View Repository](https://github.com/YashJ125) |
 
@@ -144,7 +157,7 @@ An application designed to record and manage personal expenses.
 
 - Developed an application for recording personal expenses.
 - Implemented expense tracking functionality.
-- Enabled users to maintain their spending records.
+- Enabled users to maintain spending records.
 - Designed around simple expense management and review.
 
 </details>
@@ -156,14 +169,14 @@ An application designed to record and manage personal expenses.
 
 <br/>
 
-A banking application focused on account creation, customer account management and account operations.
+A banking application focused on account creation, customer account management, and account operations.
 
 | Category | Details |
 |---|---|
-| Stack | Programming & Database Concepts |
-| Functionality | Account management and money transfer |
+| Stack | Java |
+| Functionality | Account creation, account management and transfers |
 | Focus | Banking Operations |
-| Security | Not specified in resume |
+| Security | Not specified |
 | Impact | Provides core banking account-management functionality |
 | Repository | [View Repository](https://github.com/YashJ125) |
 
@@ -172,8 +185,8 @@ A banking application focused on account creation, customer account management a
 - Developed a banking application supporting account creation.
 - Implemented customer account management.
 - Added functionality for updating account details.
-- Implemented account information checking.
-- Added money-transfer functionality between accounts.
+- Added account information checking.
+- Implemented money transfer functionality between accounts.
 
 </details>
 
@@ -202,10 +215,11 @@ Completed a virtual internship focused on **Java Development and practical progr
 
 ### Gautam Buddha University, Greater Noida, Uttar Pradesh
 
-**B.Tech — Electronics and Communication Engineering**  
+**B.Tech — Electronics and Communication Engineering**
+
 **Expected Graduation: 2027**
 
-**Academic Record**
+### Academic Record
 
 - Class XII — 74.5%
 - Class X — 73%
@@ -235,8 +249,6 @@ Completed a virtual internship focused on **Java Development and practical progr
 </a>
 
 </div>
-
-> Coding-platform profiles such as LeetCode, GeeksforGeeks, HackerRank and CodeChef are not included until their actual profile links are available.
 
 ---
 
@@ -284,7 +296,16 @@ Completed a virtual internship focused on **Java Development and practical progr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YashJ125/YashJ125/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YashJ125/YashJ125/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/YashJ125/YashJ125/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/YashJ125/YashJ125/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -294,7 +315,7 @@ Completed a virtual internship focused on **Java Development and practical progr
 
 ```yaml
 Learning:
-  - Advanced Java
+  - Java
   - Data Structures & Algorithms
   - SQL & Database Management
   - Backend Development
@@ -302,16 +323,17 @@ Learning:
 Building:
   - Java-based applications
   - Practical software projects
+  - REST APIs
   - Problem-solving skills
 
 Exploring:
-  - Software Engineering
-  - Backend Systems
-  - AI Foundations
-  - Cloud Technologies
+  - Spring & Spring Boot
+  - Backend Architecture
+  - RESTful APIs
+  - Database Design
 
 Open To:
   - Java Development
   - Backend Development
   - Software Engineering Opportunities
-  - Collaborative Projects
+  - Java/Spring Boot Projects
