@@ -1,23 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F23,40:312E81,75:6D28D9,100:A855F7&height=230&section=header&text=YASH%20JOSHI&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=JAVA%20BACKEND%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20IN%20PROGRESS&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09001A,35:312E81,65:7C3AED,85:DB2777,100:06B6D4&height=250&section=header&text=YASH%20JOSHI&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=45" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Java+Backend+Developer+in+Progress;Learning+DSA+%7C+SQL+%7C+Spring+Boot;Building+Practical+Java+Applications;Turning+Logic+Into+Software;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=60&lines=JAVA+BACKEND+DEVELOPER;SOFTWARE+ENGINEER+IN+PROGRESS;JAVA+%7C+DSA+%7C+SQL+%7C+SPRING+BOOT;BUILDING+%2B+LEARNING+%2B+DEBUGGING" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-0891B2?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/BACKEND-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-16A34A?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 <br><br>
 
 <a href="https://github.com/YashJ125">
-<img src="https://img.shields.io/badge/GITHUB-YashJ125-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-YashJ125-111827?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yash-joshi-46599928b">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=818CF8"/>
 </a>
 
 <a href="mailto:jyash4450@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-111827?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
 </a>
 
 <br><br>
@@ -30,194 +38,99 @@
 
 <div align="center">
 
-## `> whoami`
+### `JAVA BACKEND DEVELOPER • SOFTWARE ENGINEER IN PROGRESS`
 
-### Java Developer • Backend Enthusiast • Problem Solver
+**Turning logic into software, one project at a time.**
 
 </div>
 
-I'm a developer focused on **Java Backend Development** and building a strong foundation for a career in **Software Engineering**.
+## About Me
 
-My current path is centered around:
+I'm a developer focused on **Java Backend Development** with a long-term goal of becoming a **Software Engineer**.
 
-`Java` → `OOP` → `DSA` → `SQL` → `Spring Boot` → `Backend Development`
+I enjoy writing Java code, solving problems with **Data Structures & Algorithms**, working with databases, and learning how backend systems work behind the scenes.
 
-I enjoy building practical applications, understanding how software works behind the scenes, and improving my problem-solving skills through consistent practice.
+My current path is:
 
-I'm currently focused on becoming a strong **Java Backend Developer** by combining programming fundamentals with real-world projects.
+**Java → OOP → DSA → SQL → Spring Boot → REST APIs → Backend Development**
+
+I'm focused on building strong fundamentals, creating practical projects, and becoming better at writing clean and maintainable software.
 
 ---
 
-<div align="center">
-
-## `01` — TECH STACK
-
-</div>
+## Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="65"/>
 </p>
 
 ### Core
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Exception%20Handling-7C3AED?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0891B2?style=for-the-badge"/>
 </p>
 
 ### Backend
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java%20Backend-0F172A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Backend-312E81?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-Learning-166534?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-312E81?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/REST%20APIs-0E7490?style=for-the-badge"/>
 </p>
 
-### Database
+### Database & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="55"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
 </p>
 
 ---
 
-<div align="center">
+## Projects
 
-## `02` — WHAT I'M BUILDING
+### Student Management System
 
-</div>
+A practical application focused on managing student information, including adding, updating and viewing student records.
 
-### `Student Management System`
+**Focus:** `Java` `OOP` `Data Management`
 
-<details>
-<summary><b>View Project</b></summary>
+### Personal Expense Tracker
 
-<br>
+An application designed to record, organize and review personal expenses.
 
-A Java-based application designed to organize and manage student information.
+**Focus:** `Java` `OOP` `Problem Solving`
 
-**Core Features**
+### Banking Management System
 
-- Add student records
-- Update student information
-- View student records
-- Manage student data
+A banking application focused on account creation, customer management, account information and money transfer functionality.
 
-**Focus**
-
-`Java` `OOP` `Data Management`
-
-**Repository**
-
-<a href="https://github.com/YashJ125">
-<img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
+**Focus:** `Java` `OOP` `Problem Solving`
 
 ---
 
-### `Personal Expense Tracker`
-
-<details>
-<summary><b>View Project</b></summary>
-
-<br>
-
-A practical application for recording and managing personal expenses.
-
-**Core Features**
-
-- Record expenses
-- Manage spending records
-- Review expenses
-- Organize personal spending data
-
-**Focus**
-
-`Java` `OOP` `Problem Solving`
-
-**Repository**
-
-<a href="https://github.com/YashJ125">
-<img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
----
-
-### `Banking Management System`
-
-<details>
-<summary><b>View Project</b></summary>
-
-<br>
-
-A banking application focused on account and customer management.
-
-**Core Features**
-
-- Account creation
-- Customer account management
-- Account information checking
-- Account detail updates
-- Money transfer between accounts
-
-**Focus**
-
-`Java` `OOP` `Problem Solving`
-
-**Repository**
-
-<a href="https://github.com/YashJ125">
-<img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</details>
-
----
-
-<div align="center">
-
-## `03` — CURRENT FOCUS
-
-</div>
+## Current Focus
 
 ```yaml
-career_direction:
-  - Java Backend Development
-  - Software Engineering
+role:
+  current: Java Developer
+  target: Backend Software Engineer
 
 learning:
   - Java
   - Data Structures & Algorithms
   - SQL
+  - MySQL
   - Spring Boot
   - REST APIs
 
 building:
-  - Java Applications
-  - Backend Projects
-  - Database-driven Applications
+  - Java applications
+  - Backend projects
+  - Database-driven applications
 
 improving:
   - Problem Solving
